@@ -1,0 +1,23 @@
+.hero-wrapper{
+color: white;
+background-color: black;
+padding-bottom: 2rem;
+}
+.hero-contanier{
+    justify-content: space-between;
+   align-items: flex-end;
+ 
+}
+.image-contanier{
+width: 30rem;
+height: 35rem;
+overflow: hidden;
+border-radius: 15rem 15rem 0 0;
+border: 8px solid rgb(255,255,255,0.12);
+
+}
+.image-contanier>img{
+width:100%;
+height: 100%;
+
+}
